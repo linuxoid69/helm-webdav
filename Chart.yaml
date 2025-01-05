@@ -23,6 +23,6 @@ version: 0.1.0
 # It is recommended to use it with quotes.
 appVersion: "1.26.2-r0"
 
-mainteners:
+maintainers:
   - name: Rustam Tagaev
     email: linuxoid69@gmail.com
